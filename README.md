@@ -1,0 +1,2 @@
+# prime
+Done using recursion
